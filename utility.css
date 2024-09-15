@@ -1,0 +1,7 @@
+/* to take an item at the center of the parent give this class to parent */
+.center-flex {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+}
